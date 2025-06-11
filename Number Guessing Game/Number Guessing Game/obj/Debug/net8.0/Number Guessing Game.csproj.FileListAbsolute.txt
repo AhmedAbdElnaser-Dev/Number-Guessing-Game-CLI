@@ -1,0 +1,15 @@
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.exe
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.deps.json
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.runtimeconfig.json
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.dll
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\bin\Debug\net8.0\Number Guessing Game.pdb
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.AssemblyInfoInputs.cache
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.AssemblyInfo.cs
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.sourcelink.json
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.dll
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\refint\Number Guessing Game.dll
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.pdb
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\Number Guessing Game.genruntimeconfig.cache
+E:\Programming\C#\Number-Guessing-Game-CLI\Number Guessing Game\Number Guessing Game\obj\Debug\net8.0\ref\Number Guessing Game.dll
